@@ -1,2 +1,2 @@
 # Capstone-Lab-Security-Hardening-with-Python-using-Netconf
-This is a project where I use NETCONF to automate some basic security hardening techniques
+This is a project where I create a lab appropriate for an ungraduate Information Technology student using NETCONF to automate some basic security hardening techniques.
